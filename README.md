@@ -53,19 +53,16 @@ Write your styles in a ```.css``` file and then include the using a ```<link>```
 
 >  
 > CSS: The Very Basics (Cascading Style Sheets)
+> 
 > Color Systems:
 
 **Names**
 
 Website: https://htmlcolorcodes.com/color-names/
 
-
-
 **RGB** - ```rgb(0,0,0)```
 
 Website: https://htmlcolorcodes.com/color-picker/
-
-
 
 **Hexadecimal** - ```#ffff00```
 
@@ -106,3 +103,5 @@ Website: https://htmlcolorcodes.com/color-picker/
 **7.**  ```font-family:``` ```Verdana, Futura, Arial;``` - Verdana is the first one the anothers are backup 
 
 Website - https://www.cssfontstack.com/
+
+
