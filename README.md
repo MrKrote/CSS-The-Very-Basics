@@ -31,3 +31,18 @@ h1 {
 **CSS Reference**
 
 **Website** : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+>  
+> CSS: The Very Basics (Cascading Style Sheets)
+> Including Styles
+
+Write your styles in a ```.css``` file and then include the using a ```<link>``` in the head of your HTML document.
+
+**The ```<link>``` file**
+
+```
+<head>
+    <title> Forms Demo </title>
+    <link rel="stylesheet" href="FormsDemoStyle.css">
+</head>
+```
