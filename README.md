@@ -59,9 +59,12 @@ Write your styles in a ```.css``` file and then include the using a ```<link>```
 
 Website: https://htmlcolorcodes.com/color-names/
 
+
+
 **RGB** - ```rgb(0,0,0)```
 
 Website: https://htmlcolorcodes.com/color-picker/
+
 
 
 **Hexadecimal** - ```#ffff00```
@@ -81,4 +84,8 @@ Hexadecimal can be short:
 
 Website: https://htmlcolorcodes.com/color-picker/
 
+&nbsp;
+
+>  
+> CSS: The Very Basics (Cascading Style Sheets)
 
