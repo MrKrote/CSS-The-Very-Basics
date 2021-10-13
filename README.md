@@ -88,6 +88,7 @@ Website: https://htmlcolorcodes.com/color-picker/
 
 >  
 > CSS: The Very Basics (Cascading Style Sheets)
+> 
 > Common Text Properties
 
 **1.** ```text-align:```  ```center;``` | ```left;``` | ```right;``` - they're all aligned to the right of their respective sort of content boxes.
