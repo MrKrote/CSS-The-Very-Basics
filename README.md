@@ -88,4 +88,19 @@ Website: https://htmlcolorcodes.com/color-picker/
 
 >  
 > CSS: The Very Basics (Cascading Style Sheets)
+> Common Text Properties
 
+**1.** ```text-align:```  ```center;``` | ```left;``` | ```right;``` - they're all aligned to the right of their respective sort of content boxes.
+
+**2.** ```font-weight:``` ```400;``` | ```normal;``` | ```bold;```
+
+**3.** ```text-decoration:``` ```#f88945 underline dotted;``` | ```underline wavy;```
+
+**4.** ```line-height:``` ```2;``` | ```normal```
+
+**5.** ```letter-spacing:``` ```7px;```
+
+**6.**  ```font-size:``` ```80px;```
+
+**7.**  ```font-family:``` ```Verdana, Futura, Arial;``` - Verdana is the first one the anothers are backup 
+Website - https://www.cssfontstack.com/
