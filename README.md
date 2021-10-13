@@ -20,7 +20,7 @@ selector {
 
 **Pl.:**
 
-Make all <h1> elements purple
+Make all ```<h1>``` elements purple
   
 ```
 h1 {
